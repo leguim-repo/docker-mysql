@@ -8,4 +8,5 @@ The script 99_startPom-MySQL-Container.sh start the container.
 The script 98_stopPom-MySQL-Container.sh stop the container.  
 
 ---
-![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
+<!-- Pit i Collons -->
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
